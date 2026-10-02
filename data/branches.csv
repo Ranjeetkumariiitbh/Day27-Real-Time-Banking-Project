@@ -1,0 +1,6 @@
+branch_id,branch_name,city,risk_level
+B001,MG Road Branch,Bengaluru,LOW
+B002,Park Street Branch,Kolkata,MEDIUM
+B003,Connaught Place Branch,Delhi,HIGH
+B004,HITEC City Branch,Hyderabad,LOW
+B005,Andheri Branch,Mumbai,MEDIUM
